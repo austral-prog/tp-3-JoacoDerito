@@ -1,13 +1,3 @@
-def slice_simple():
-    texto = "Awesome"
-    resultado1 = texto[0:3].lower()
-    resultado2 = texto[3:5].lower()
-    resultado3 = texto[0:].lower()
-
-    print(resultado1)
-    print(resultado2)
-    print(resultado3)
-slice_simple()
 
     # Código a implementar utilizando input.
 
